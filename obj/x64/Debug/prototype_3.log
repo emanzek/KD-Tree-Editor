@@ -1,0 +1,110 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of ofxInputField.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxInputField.cpp, ..\..\of_v0.11.0_vs2017_release\addons\ofxInputField\src\ofxInputField.cpp.
+  main.cpp
+  ofApp.cpp
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\ofApp.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(326): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(331): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(912): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(913): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(914): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofmatrix4x4.h(915): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data (compiling source file src\main.cpp)
+d:\of_v0.11.0_vs2017_release\addons\ofxspatialhash\libs\ofxspatialhash\include\ofx\kdtree.h(286): warning C4267: 'argument': conversion from 'size_t' to 'glm::vec<2,float,0>::length_type', possible loss of data (compiling source file src\ofApp.cpp)
+  d:\of_v0.11.0_vs2017_release\addons\ofxspatialhash\libs\ofxspatialhash\include\ofx\kdtree.h(285): note: while compiling class template member function 'FloatType ofx::KDTree<ofApp::Vec2,2,FloatType,size_t>::kdtree_get_pt(const size_t,size_t) const'
+          with
+          [
+              FloatType=float
+          ] (compiling source file src\ofApp.cpp)
+  d:\of_v0.11.0_vs2017_release\addons\ofxspatialhash\libs\nanoflann\include\nanoflann.hpp(828): note: see reference to function template instantiation 'FloatType ofx::KDTree<ofApp::Vec2,2,FloatType,size_t>::kdtree_get_pt(const size_t,size_t) const' being compiled
+          with
+          [
+              FloatType=float
+          ] (compiling source file src\ofApp.cpp)
+  d:\rtcg\prototype_3\src\ofapp.h(46): note: see reference to class template instantiation 'ofx::KDTree<ofApp::Vec2,2,float,size_t>' being compiled (compiling source file src\ofApp.cpp)
+obj\x64\Debug\ofxInputField.obj : warning LNK4042: object specified more than once; extras ignored
+     Creating library bin\prototype_3_debug.lib and object bin\prototype_3_debug.exp
+openframeworksLib_debug.lib(ofFbo.obj) : error LNK2019: unresolved external symbol __CxxFrameHandler4 referenced in function "bool __cdecl std::operator!=<class ofBaseGLRenderer,class ofBaseGLRenderer>(class std::shared_ptr<class ofBaseGLRenderer> const &,class std::shared_ptr<class ofBaseGLRenderer> const &)" (??$?9VofBaseGLRenderer@@V0@@std@@YA_NAEBV?$shared_ptr@VofBaseGLRenderer@@@0@0@Z)
+openframeworksLib_debug.lib(ofCamera.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofLight.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofGLRenderer.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofThread.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofNode.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofMatrixStack.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofBufferObject.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofVbo.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofTessellator.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofFmodSoundPlayer.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofSoundBuffer.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofFpsCounter.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofGLUtils.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofGLProgrammableRenderer.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(of3dGraphics.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofRendererCollection.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofCairoRenderer.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofShader.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofSoundPlayer.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofAppGLFWWindow.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofURLFileLoader.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(of3dPrimitives.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofParameter.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofVboMesh.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofPath.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofMainLoop.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofPixels.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofBitmapFont.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofXml.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofImage.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofLog.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofParameterGroup.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofTexture.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofTrueTypeFont.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofEvents.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofUtils.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofRectangle.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofFileUtils.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofAppRunner.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofGraphics.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofBaseTypes.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofBaseApp.obj) : error LNK2001: unresolved external symbol __CxxFrameHandler4
+openframeworksLib_debug.lib(ofLight.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofThread.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofNode.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofMatrixStack.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofFbo.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofVbo.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofTessellator.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofFmodSoundPlayer.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofGLRenderer.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofShader.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofSoundBuffer.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofGLUtils.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofGLProgrammableRenderer.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(of3dPrimitives.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(of3dGraphics.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofRendererCollection.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofCairoRenderer.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofMainLoop.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofSoundPlayer.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofAppGLFWWindow.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofURLFileLoader.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofXml.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofImage.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofParameter.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofPath.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofParameterGroup.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofTexture.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofTrueTypeFont.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofPixels.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofUtils.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofRectangle.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofFileUtils.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofLog.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofAppRunner.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofGraphics.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofBaseTypes.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+openframeworksLib_debug.lib(ofEvents.obj) : error LNK2001: unresolved external symbol __GSHandlerCheck_EH4
+bin\prototype_3_debug.exe : fatal error LNK1120: 2 unresolved externals

@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Microsoft.CppBuild.targets(944,5): warning MSB8027: Two or more files with the name of ofxInputField.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxInputField.cpp, ..\..\of_v0.11.0_vs2017_release\addons\ofxInputField\src\ofxInputField.cpp.
+  ofApp.cpp
+d:\rtcg\prototype_3\src\ofapp.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(68): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(235): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(236): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(257): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(258): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(281): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(282): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(296): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(314): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(315): warning C4018: '<': signed/unsigned mismatch
+d:\rtcg\prototype_3\src\ofapp.cpp(328): warning C4018: '<': signed/unsigned mismatch
+  prototype_3.vcxproj -> D:\RTCG\prototype_3\bin\prototype_3_debug.exe
+  
+  	                   2	D:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	D:\RTCG\prototype_3\bin\FreeImage.dll
+  
+  	                   1	D:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	D:\RTCG\prototype_3\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	D:\RTCG\prototype_3\bin\fmodexL.dll

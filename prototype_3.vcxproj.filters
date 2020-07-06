@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\main.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="src\ofApp.cpp">
+			<Filter>src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxBaseGui.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxButton.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxColorPicker.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxGuiGroup.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxInputField.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxLabel.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxPanel.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxSlider.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxSliderGroup.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxToggle.cpp">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClCompile>
+		<ClCompile Include="..\..\of_v0.11.0_vs2017_release\addons\ofxInputField\src\ofxInputField.cpp">
+			<Filter>addons\ofxInputField\src</Filter>
+		</ClCompile>
+	</ItemGroup>
+	<ItemGroup>
+		<Filter Include="src">
+			<UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons">
+			<UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGui">
+			<UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxGui\src">
+			<UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxInputField">
+			<UniqueIdentifier>{D638171E-C38D-0A35-CFB3-8971}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxInputField\src">
+			<UniqueIdentifier>{A25CD3D6-9534-BE4E-B514-C157}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash">
+			<UniqueIdentifier>{BEC69B08-2081-87B5-5091-EDA1}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\src">
+			<UniqueIdentifier>{4171E9F0-7B26-6826-2EAF-EDBA}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\libs">
+			<UniqueIdentifier>{A6100739-A709-5E0B-A81E-1E6D}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\libs\nanoflann">
+			<UniqueIdentifier>{F7AFF2DF-4115-1A6B-C989-EBB1}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\libs\nanoflann\include">
+			<UniqueIdentifier>{02BF8E98-896F-261F-E9CB-73C8}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\libs\ofxSpatialHash">
+			<UniqueIdentifier>{141F9213-E342-A7B1-4839-E1F4}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\libs\ofxSpatialHash\include">
+			<UniqueIdentifier>{4B24B9CE-B376-3B24-229D-7759}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="addons\ofxSpatialHash\libs\ofxSpatialHash\include\ofx">
+			<UniqueIdentifier>{C5DFD7B1-CA65-5751-2D16-D0C6}</UniqueIdentifier>
+		</Filter>
+	</ItemGroup>
+	<ItemGroup>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="src\ofApp.h">
+			<Filter>src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxBaseGui.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxButton.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxColorPicker.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxGui.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxGuiGroup.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxGuiUtils.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxInputField.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxLabel.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxPanel.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxSlider.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxSliderGroup.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxGui\src\ofxToggle.h">
+			<Filter>addons\ofxGui\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxInputField\src\ofxInputField.h">
+			<Filter>addons\ofxInputField\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxSpatialHash\src\ofxSpatialHash.h">
+			<Filter>addons\ofxSpatialHash\src</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxSpatialHash\libs\nanoflann\include\nanoflann.hpp">
+			<Filter>addons\ofxSpatialHash\libs\nanoflann\include</Filter>
+		</ClInclude>
+		<ClInclude Include="..\..\of_v0.11.0_vs2017_release\addons\ofxSpatialHash\libs\ofxSpatialHash\include\ofx\KDTree.h">
+			<Filter>addons\ofxSpatialHash\libs\ofxSpatialHash\include\ofx</Filter>
+		</ClInclude>
+	</ItemGroup>
+	<ItemGroup>
+		<ResourceCompile Include="icon.rc" />
+	</ItemGroup>
+</Project>
